@@ -11,8 +11,8 @@ body{
     align-items: center;
     font-family: 'Quicksand', sans-serif;
     height: 100vh;
-    /* background-color: rgba(33, 122, 173, 0.733); */
-    background-image: radial-gradient( circle 465px at -15.1% -25%,  rgb(1, 8, 12) 0%, rgb(2, 19, 31) 49%, rgb(4, 13, 17) 90.2% );
+
+     background-image: radial-gradient( circle 465px at -15.1% -25%,  rgb(1, 8, 12) 0%, rgb(2, 19, 31) 49%, rgb(4, 13, 17) 90.2% );
 }
 
 form{
@@ -22,10 +22,10 @@ form{
     padding: 1rem;
     width: 22%;
     align-items: center;
-    /* box-shadow: 3px 3px 5px 6px rgb(26, 25, 25); */
+    
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5); 
     padding: 2rem;
-    /* background-color: rgb(255, 255, 255); */
+    
     background-color: rgba(51, 7, 112, 0.884);
     
 }
@@ -96,13 +96,13 @@ label{
     text-align: center;    
     width: 4rem;
     padding: 0.3rem 0.6rem;
-    /* box-shadow: 0 8px 16px 0 rgba(24, 24, 24, 0.2); */
+    
     background-color: rgba(40, 141, 209, 0.836);
     color: white;
     border-radius: 18px;
     margin-bottom: 0.5rem;
 }
-/* seperate styles for the profile that is shown after data demand */
+
 
 .profile{
     
